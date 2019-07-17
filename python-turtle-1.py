@@ -1,5 +1,5 @@
 #Welcome to ZodiacAnimation
-#Github profile :- gitzodiac
+#Github profile :- gitzodiac/python-turtle
 #let's jump over
 
 #python3.x
